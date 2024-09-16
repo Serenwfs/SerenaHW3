@@ -151,7 +151,7 @@ Several influential researchers have left a profound mark on the field of progra
 
 ## References 
 
- **Nanz, S., & Furia, C. A.** (2015). *A Comparative Study of Programming Languages in Rosetta Code*. ACM Transactions on Programming Languages and Systems (TOPLAS), 37(4), 1-32.  
+1.  **Nanz, S., & Furia, C. A.** (2015). *A Comparative Study of Programming Languages in Rosetta Code*. ACM Transactions on Programming Languages and Systems (TOPLAS), 37(4), 1-32.  
    - This study analyzes various programming languages through the Rosetta Code repository, comparing how language features affect readability, maintainability, and developer collaboration.
 
 2. **Storey, M.-A., Ryall, J., Bull, R. I., Myers, D., & Singer, J.** (2008). *TODO or to Bug: Exploring How Task Annotations Play a Role in the Work Practices of Software Developers*. Proceedings of the 30th International Conference on Software Engineering (ICSE), 251-260.  
